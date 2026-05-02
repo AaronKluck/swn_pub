@@ -17,8 +17,10 @@ Player-facing materials for an ongoing **Stars Without Number** campaign set in 
 ## The setting
 
 - [`setting-overview.md`](setting-overview.md) — the default *Stars Without Number* setting. The Terran Mandate, the Scream, the Silence, the present day. Background for any SWN campaign.
-- [`astyna-tau-sector/herdisan-reach-players-guide.md`](astyna-tau-sector/herdisan-reach-players-guide.md) — a traveler's guide to the Herdisan Reach, the cluster of six inhabited systems where the campaign takes place. Written as in-world common knowledge: what spacers, merchants, and anyone who's spent time in the region knows.
+- [`astyna-tau-sector/herdisan-reach-players-guide.md`](astyna-tau-sector/herdisan-reach-players-guide.md) — a traveler's guide to the Herdisan Reach, the cluster of six inhabited systems where the campaign begins. Written as in-world common knowledge: what spacers, merchants, and anyone who's spent time in the region knows.
 
 ## The campaign
 
 - [`starting-ship-choices.md`](starting-ship-choices.md) — three options for how your crew came into possession of a ship. Pick one before session one. Each has a downside; none of them are clean.
+- [`Sectors Without Number`](https://sectorswithoutnumber.com/sector/J6OmTKZpssQ4K3qFcmcc) — interactive sector map.
+
