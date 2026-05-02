@@ -12,6 +12,8 @@ Two alien species live in the Reach. The **Sethuri** are Daphilo's natives - rep
 
 ## The Systems
 
+![Map of the known sector](known-sector-planets.png)
+
 ### Ilanga (0506)
 
 *Trailward end of the Reach. First stop from the Consilium.*
