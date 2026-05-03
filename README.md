@@ -22,5 +22,6 @@ Player-facing materials for an ongoing **Stars Without Number** campaign set in 
 ## The campaign
 
 - [`starting-ship-choices.md`](starting-ship-choices.md) — three options for how your crew came into possession of a ship. Pick one before session one. Each has a downside; none of them are clean.
+- [`choose-your-own-adventure.md`](choose-your-own-adventure.md) — pitch your own additions to the setting and I will work to make them canon. Trivial things stay yours; consequential things become the campaign's.
 - [`Sectors Without Number`](https://sectorswithoutnumber.com/sector/J6OmTKZpssQ4K3qFcmcc) — interactive sector map.
 
