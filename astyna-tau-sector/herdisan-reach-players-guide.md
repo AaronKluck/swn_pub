@@ -10,6 +10,28 @@ The Reach is a line, not a web. Ilanga at one end, Shakunetsu at the other, and 
 
 Two alien species live in the Reach. The **Sethuri** are Daphilo's natives - reptilian, tough, and not happy about the humans who colonized their world. The **Vaelith** are tall, grey-skinned, and unsettling in a way that's hard to put your finger on. They live on Herdis and they used to help run the Hegemony. Most people outside the Reach think Vaelith are dangerous manipulators. People on Herdis think they're indispensable. Both views contain some truth.
 
+## Faiths That Travel
+
+Most worlds in the Reach have their own local religions, but three traditions show up everywhere: on every populated world, at most refueling stations, and in conversations between spacers who have just met. None of them is politically powerful. All of them are easy to recognize on sight.
+
+### The Gathering of Stillness
+
+**What everyone knows:** The oldest of the cluster-spanning faiths, and the one most likely to have a chapter on whatever station you've docked at. Members - they call each other "Friends" - sit together in plain rooms called *quietings*, in silence, for an hour at a time. There is no preaching, no doctrine, and no clergy. A handful of itinerant teachers wander between communities by hitching rides on freighters. The Gathering takes no political position on anything, ever, which has earned it both wide respect and a certain amount of suspicion from people who cannot believe a centuries-old organization could really be that boring.
+
+**What spacers say:** The quietings on Manes are the only places on that planet where you can have an actual private conversation, because the Gathering refuses to install transponders and the Directorate has not yet figured out how to make them. This is more useful than meditation. Pay your respects, sit your hour, conduct your business afterward; the Friends will not ask what you discussed and would not understand if you told them.
+
+### The Yggdran Chosen
+
+**What everyone knows:** A pilot's faith. The Chosen - everyone calls them "Drumbearers" and the Chosen don't object - hold that the spike drill briefly opens a window onto a vast, branching structure in metaspace that they call the Tree, and that a sufficiently disciplined person can climb its branches. They named themselves after Yggdrasil, the world-tree of pre-Scream Old Norse cosmology, on the grounds that the thing they see resembles every world-tree mythology humans have ever come up with. Halls are spare: drum, bench, low light, and a star chart someone with a navigator's license drew. Members who claim to have seen the Tree clearly and unaided are called witnesses, and they run the chapters.
+
+**What spacers say:** Almost every refueling station has a Drumbearer chapter, and most long-haul pilots have at least sat in on a real-space service, even the ones who think it's nonsense. *Kostrei*, the brew they pass around in real space, is meant to simulate, in real space, the cognitive opening that pilots experience in metaspace; whether it actually does or whether it's just a mild trance drug is a matter of some debate. The Pittis chapter is the largest in the Reach, for the obvious reason that more pilots pass through Pittis than anywhere else. Most witnesses are reasonable people. The ones who aren't have usually fallen out with their chapter by the time you meet them.
+
+### The Communion of the Veiled Choir
+
+**What everyone knows:** A faith of cranks, bereaved people, and station-bound contemplatives who weld copper-and-bone horns to ship hulls and listen for the dead. The doctrine holds that everyone who has ever lived leaves a "resonant trace" in the metadimensional substrate, that those traces collect in certain places, and that a properly tuned horn on a fueled ship can catch fragments of them. Most horns produce noise. A few catch what sound like names, phrases, the back end of a sentence in a language no one alive recognizes. The Communion writes these down in ledgers and discusses them for years.
+
+**What spacers say:** They are mostly harmless. New members tend to be people who have recently lost someone and want to hear them again; the senior listeners are gentler with newcomers than the faith's reputation would suggest. Ridicule them at your own risk: most people who admit to having attended a service did so during a hard year, and the few captains who swear they have actually heard their dead come back from a session looking like they have not slept in days.
+
 ## The Systems
 
 ![Map of the known sector](known-sector-planets.png)
